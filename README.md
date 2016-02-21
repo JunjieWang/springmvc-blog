@@ -1,0 +1,3 @@
+# springmvc-blog
+
+Hello Spring!
